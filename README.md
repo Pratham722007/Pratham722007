@@ -11,21 +11,6 @@
 </div>
 
 ---
-
-## 👨‍💻 About Me
-
-<div align="center">
-
-🚀 Passionate about building **Intelligent Web Systems** driven by AI  
-🧠 Strong foundation in **Data Structures & Algorithms**  
-🌌 Exploring the intersection of **Brains + Code**  
-
-<b>[SYSTEM STATUS — ✅ ACTIVE]</b>
-
-</div>
-
----
-
 ## 🧠 Tech Stack
 
 <div align="center">
@@ -47,13 +32,34 @@
 </div>
 
 ---
+## 👨‍💻 About Me
 
-## 🧩 AI Domains & Focus
+<div align="center">
 
-> Neural Networks • Machine Learning • Deep Learning • Computer Vision  
-> Intelligent Web Systems • Data Engineering • Generative AI
+🚀 Passionate about building **Intelligent Web Systems** driven by AI  
+🧠 Strong foundation in **Data Structures & Algorithms**  
+🌌 Exploring the intersection of **Brains + Code**  
+
+<b>[SYSTEM STATUS — ✅ ACTIVE]</b>
+
+</div>
 
 ---
+## 🎯 Competitive Coding
+
+<div align="center">
+
+<!-- Replace “your_username” once shared -->
+<img src="https://leetcard.jacoblin.cool/Pratham722007?theme=dark&font=Outfit"/>
+<br>
+<img src="https://codeforces-readme-stats.vercel.app/api/card?username=Pratham722007"/>
+
+</div>
+
+---
+
+
+
 
 ## 🏆 Achievements & Stats
 
@@ -74,18 +80,6 @@
 
 ---
 
-## 🎯 Competitive Coding
-
-<div align="center">
-
-<!-- Replace “your_username” once shared -->
-<img src="https://leetcard.jacoblin.cool/Pratham722007?theme=dark&font=Outfit"/>
-<br>
-<img src="https://codeforces-readme-stats.vercel.app/api/card?username=Pratham722007"/>
-
-</div>
-
----
 
 ## 🌐 Connect With Me
 
