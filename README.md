@@ -3,7 +3,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=slice&color=0:000000,50:001100,100:00FF00&height=200&section=header&text=PRATHAM%20PATADIYA&fontSize=65&fontColor=00FFAA&animation=fadeIn&fontAlignY=45&desc=AI%20%E2%80%A2%20ML%20%E2%80%A2%20WEB%20DEVELOPMENT%20%E2%80%A2%20DSA&descAlignY=75&descSize=16&descColor=FFFFFF"/>
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="900" alt="Snake animation"/>
+<img src="https://raw.githubusercontent.com/Pratham722007/Pratham722007/main/output/matrix-game.svg" width="900" alt="AI Matrix Game"/>
+
 
 </div>
 
