@@ -85,9 +85,13 @@
 
 <div align="center">
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/pratham-patadiya-4b1344300)
-[![Mail](https://skillicons.dev/icons?i=gmail)](patadiyapratham98@gmail.com)
+<div align="center">
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/pratham-patadiya-4b1344300/)
+[![Mail](https://skillicons.dev/icons?i=gmail)](mailto:patadiyapratham98@gmail.com)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/Pratham722007)
+
+</div>
 
 </div>
 
