@@ -1,105 +1,105 @@
-<!-- 🔥 Futuristic AI • ML • Web Dev • DSA Profile README -->
+# 🔷 [ CORE_SYSTEM_INITIATED ]
+
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:000000,50:001100,100:00FF00&height=200&section=header&text=PRATHAM%20PATADIYA&fontSize=65&fontColor=00FFAA&animation=fadeIn&fontAlignY=45&desc=AI%20%E2%80%A2%20ML%20%E2%80%A2%20WEB%20DEVELOPMENT%20%E2%80%A2%20DSA&descAlignY=75&descSize=16&descColor=FFFFFF"/>
-
-<img src="https://raw.githubusercontent.com/Pratham722007/Pratham722007/main/output/matrix-game-v2.svg" width="900" alt="AI Matrix Game"/>
-
-
-
-
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0066FF&height=150&section=header&text=PRATHAM%20PATADIYA&fontSize=75&fontColor=FFFFFF&animation=fadeIn&desc=ARTIFICIAL%20INTELLIGENCE%20%E2%80%A2%20SVNIT&descAlignY=75&descSize=20&descColor=CCE0FF" />
 </div>
 
----
-## 🧠 Tech Stack
-
 <div align="center">
-
-<h3>🚀 Languages & Frameworks</h3>
-
-<img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,react,nextjs,tailwind,redux,django,nodejs,express,mysql,postgres,mongodb" height="50"/>
-
-<h3>🧬 AI / ML Tools</h3>
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" height="50"/>
-<img src="https://skillicons.dev/icons?i=numpy,pandas" height="50"/>
-<img src="https://skillicons.dev/icons?i=scikitlearn" height="50"/>
-
-<h3>🛠 DevOps & Tools</h3>
-
-<img src="https://skillicons.dev/icons?i=git,github,postman,figma,vercel,linux,opencv" height="50"/>
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00AAFF&center=true&vCenter=true&width=550&lines=Building+Intelligent+Web+Systems;B.Tech+AI+@+SVNIT+Surat;Full+Stack+Developer+%2B+DSA" alt="Typing SVG" />
 </div>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/System_Status-✅_Active-00AAFF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Academic_Node-SVNIT_Surat-0066FF?style=for-the-badge&logo=googlescholar&logoColor=white" />
+</p>
+
 ---
-## 👨‍💻 About Me
+
+## 🧬 BIOMETRICS & ARCHITECTURE
+
+<table align="center">
+  <tr>
+    <td width="55%" valign="top">
+      <h3>🚀 Technical Identity</h3>
+      <ul>
+        <li><b>Primary Focus:</b> Machine Learning & Intelligent Web Systems.</li>
+        <li><b>Current Objective:</b> Solving complex algorithmic patterns and neural integration.</li>
+        <li><b>Institutional Node:</b> Sardar Vallabhbhai National Institute of Technology, Surat.</li>
+      </ul>
+      <p align="center">
+        <i>"Transforming abstract code into cognitive reality."</i>
+      </p>
+   
+  </tr>
+</table>
+
+---
+
+## 🛠️ THE NEURAL STACK
 
 <div align="center">
 
-🚀 Passionate about building **Intelligent Web Systems** driven by AI  
-🧠 Strong foundation in **Data Structures & Algorithms**  
-🌌 Exploring the intersection of **Brains + Code**  
-
-<b>[SYSTEM STATUS — ✅ ACTIVE]</b>
-
-</div>
-
----
-## 🎯 Competitive Coding
-
-<div align="center">
-
-<!-- Replace “your_username” once shared -->
-<img src="https://leetcard.jacoblin.cool/Pratham722007?theme=dark&font=Outfit"/>
-<br>
-<img src="https://codeforces-readme-stats.vercel.app/api/card?username=Pratham722007"/>
+| LAYER | INTEGRATED TECHNOLOGIES |
+| :--- | :--- |
+| **Logic & Core** | `Python` `C++` `C` `JavaScript` `DSA` |
+| **Intelligence** | `TensorFlow` `PyTorch` `LangChain` `Scikit-Learn` `Pandas` `NumPy` |
+| **Architecture** | `React` `Next.js` `Django` `Node.js` `Express.js` `Tailwind CSS` |
+| **DevOps & Tools**| `Git` `GitHub` `Postman` `Vercel` `Linux` `OpenCV` |
 
 </div>
 
 ---
 
-
-
-
-## 🏆 Achievements & Stats
+## 🏗️ FLAGSHIP DEPLOYMENTS
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Pratham722007&theme=matrix&no-frame=true&margin-w=10"/>
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Pratham722007&show_icons=true&theme=chartreuse-dark&hide_border=true&border_radius=10" height="160em"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pratham722007&theme=chartreuse-dark&hide_border=true&border_radius=10" height="160em"/>
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratham722007&layout=compact&theme=chartreuse-dark&hide_border=true&border_radius=10"/>
-
+| Project | Core Tech | Highlights |
+| :--- | :--- | :--- |
+| **CRICARENA** | `Django` `React` | Real-time cricket platform with AI-powered Q&A and analysis. |
+| **MangroSafe** | `AI` `Django` | Gamified AI platform for reporting illegal environmental activities. |
+| **MINDSETTLER** |`Next js` `Supabase` `FireBase` |A production level website to help people with issues.|
 </div>
 
 ---
 
-
-## 🌐 Connect With Me
-
-<div align="center">
+## 📉 PERFORMANCE ANALYTICS
 
 <div align="center">
-
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/pratham-patadiya-4b1344300/)
-[![Mail](https://skillicons.dev/icons?i=gmail)](mailto:patadiyapratham98@gmail.com)
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/Pratham722007)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Pratham722007&show_icons=true&theme=tokyonight&title_color=00AAFF&icon_color=00AAFF&hide_border=true&bg_color=0D1117" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pratham722007&theme=tokyonight&fire=00AAFF&sideNums=00AAFF&hide_border=true&bg_color=0D1117" height="165" />
 </div>
 
+<br />
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/Pratham722007?theme=dark&font=Outfit&font_color=00AAFF&bg_color=0D1117" width="400" />
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Pratham722007&theme=dark&title_color=00AAFF" width="400" />
 </div>
 
 ---
 
-<div align="center">
+## 🏆 MILESTONES
+* **Competitive Coding:** 200+ LeetCode problems solved; Max Rating: 1407.
+* **Hackathons:** Finalist at Web Wonder 2025;Top 4 in Hack the Tank;Top 100 in HACKOUT’25.
+* **Leadership:** Co-Head @ Mindbend; CEV Developer; Executive Member @ ACM NIT Surat.
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:000000,50:001100,100:00FF00&height=200&section=footer&text=THANKS%20FOR%20VISITING!&fontSize=45&fontColor=00FFAA&animation=twinkling&fontAlignY=60&desc=Let's%20Create%20the%20Future!&descAlignY=85&descColor=FFFFFF"/>
+---
+
+## 📡 ESTABLISH CONNECTION
+
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratham-patadiya-4b1344300/)
+  [![Gmail](https://img.shields.io/badge/Gmail-0066FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patadiyapratham98@gmail.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pratham722007)
 
 </div>
 
+<br />
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0066FF&height=100&section=footer&text=THANKS%20FOR%20VISITING!&fontSize=30&fontColor=FFFFFF&animation=twinkling" width="100%"/>
+  <br />
+  <sub><b>TRANSFORMING COMPLEXITY INTO COMPUTATIONAL ELEGANCE</b></sub>
+</div>
