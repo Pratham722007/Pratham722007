@@ -7,7 +7,6 @@
 
 <div align="center">
 
-<!-- ANIMATED TYPING — 3 DIFFERENT PERSONAS -->
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=2000&pause=800&color=00AAFF&center=true&vCenter=true&multiline=false&width=600&lines=%E2%9A%99%EF%B8%8F+BOOTING+AI+SUBSYSTEM+...;%5B+STATUS%3A+FULLY+OPERATIONAL+%5D;Neural+Net+%E2%9E%9C+Trained+on+Reality;B.Tech+AI+%40+SVNIT+Surat+%F0%9F%87%AE%F0%9F%87%B3;Building+Systems+That+Think+%F0%9F%A7%A0;LLMs+%7C+React+%7C+Django+%7C+DSA+%F0%9F%94%A5;%3E_+Hello%2C+World.+I+am+Pratham." alt="Typing SVG" />
 
 </div>
@@ -16,27 +15,28 @@
 
 <div align="center">
 
-<!-- CUSTOM NEON STATUS BADGES -->
-![](https://img.shields.io/badge/-%E2%9C%A6%20SYSTEM%20ACTIVE-0066FF?style=for-the-badge&labelColor=0D1117&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiIGZpbGw9IiMwMEFBRkYiLz48L3N2Zz4=)
+![](https://img.shields.io/badge/-%E2%9C%A6%20SYSTEM%20ACTIVE-0066FF?style=for-the-badge&labelColor=0D1117)
 ![](https://img.shields.io/badge/SVNIT%20SURAT-B.Tech%20AI-00AAFF?style=for-the-badge&labelColor=0D1117&logo=googlescholar&logoColor=white)
-![](https://img.shields.io/badge/GUJARAT%2C%20INDIA-📍-003399?style=for-the-badge&labelColor=0D1117)
+![](https://img.shields.io/badge/GUJARAT%2C%20INDIA-%F0%9F%93%8D-003399?style=for-the-badge&labelColor=0D1117)
 
 </div>
 
 ---
 
-```
+<div align="center">
+<pre>
 ╔══════════════════════════════════════════════════════════════════════╗
 ║  ██████╗ ██████╗  █████╗ ████████╗██╗  ██╗ █████╗ ███╗   ███╗      ║
 ║  ██╔══██╗██╔══██╗██╔══██╗╚══██╔══╝██║  ██║██╔══██╗████╗ ████║      ║
-║  ██████╔╝██████╔╝███████║   ██║   ███████║███████║██╔████╔██║      ║
+║  ██████╔╝██████╔╝███████║   ██║   ███████║███████║██╔████╔██║       ║
 ║  ██╔═══╝ ██╔══██╗██╔══██║   ██║   ██╔══██║██╔══██║██║╚██╔╝██║      ║
 ║  ██║     ██║  ██║██║  ██║   ██║   ██║  ██║██║  ██║██║ ╚═╝ ██║      ║
-║  ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝      ║
+║  ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝     ║
 ║                                                                      ║
-║   PATADIYA  ·  AI ENGINEER  ·  SVNIT  ·  GUJARAT  ·  INDIA  🇮🇳      ║
+║      PATADIYA · AI ENGINEER · SVNIT · GUJARAT · INDIA 🇮🇳            ║
 ╚══════════════════════════════════════════════════════════════════════╝
-```
+</pre>
+</div>
 
 ---
 
@@ -103,7 +103,6 @@ print(me)
 
 <div align="center">
 
-<!-- ANIMATED SKILL BANNER -->
 <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,react,nextjs,django,nodejs&theme=dark&perline=8" />
 <br><br>
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,tailwind,express,supabase,firebase&theme=dark&perline=8" />
@@ -114,7 +113,8 @@ print(me)
 
 <br>
 
-```
+<div align="center">
+<pre>
 ┌─────────────────────────────────────────────────────────────────────┐
 │  LAYER 0x00  ░░  COGNITION    Python ██████████ C++ ███████ JS ████ │
 │  LAYER 0x01  ░░  INTELLIGENCE TF ████████ PyTorch ███████ SKL █████ │
@@ -122,7 +122,8 @@ print(me)
 │  LAYER 0x03  ░░  BACKEND      Django ████████ Node ██████ Express █ │
 │  LAYER 0x04  ░░  INFRA        Git ██████████ Vercel ████ Linux █████│
 └─────────────────────────────────────────────────────────────────────┘
-```
+</pre>
+</div>
 
 ---
 
@@ -193,59 +194,238 @@ Production-grade **mental wellness platform** — helping people navigate life's
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Pratham722007&show_icons=true&theme=tokyonight&title_color=00AAFF&icon_color=0066FF&text_color=CCE0FF&hide_border=true&bg_color=0D1117&border_radius=10&rank_icon=github&custom_title=⚡+SYSTEM+ANALYTICS" height="170" />
-&nbsp;&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pratham722007&theme=tokyonight&fire=00AAFF&sideNums=00AAFF&currStreakLabel=0066FF&hide_border=true&bg_color=0D1117&border_radius=10&dates=CCE0FF" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=Pratham722007&show_icons=true&theme=tokyonight&title_color=00AAFF&icon_color=0066FF&text_color=CCE0FF&hide_border=true&bg_color=0D1117&border_radius=10&rank_icon=percentile&custom_title=⚡+GITHUB+METRICS&include_all_commits=true&count_private=true" height="165" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratham722007&layout=compact&theme=tokyonight&title_color=00AAFF&text_color=CCE0FF&hide_border=true&bg_color=0D1117&border_radius=10&langs_count=6&custom_title=🧠+TOP+LANGUAGES" height="165" />
 
-</div>
+<br><br>
 
-<br>
+<img src="https://streak-stats.demolab.com?user=Pratham722007&theme=tokyonight&fire=00AAFF&sideNums=00AAFF&currStreakLabel=00AAFF&sideLabels=CCE0FF&dates=CCE0FF&hide_border=true&background=0D1117&stroke=0066FF&ring=0066FF&border_radius=10" width="58%" />
 
-<div align="center">
+<br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratham722007&layout=donut-vertical&theme=tokyonight&title_color=00AAFF&text_color=CCE0FF&hide_border=true&bg_color=0D1117&langs_count=6&border_radius=10" height="250" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://leetcard.jacoblin.cool/Pratham722007?theme=dark&font=Share+Tech+Mono&font_color=00AAFF&bg_color=0D1117&border=0066FF&radius=10&ext=heatmap" height="250" />
+<img src="https://leetcard.jacoblin.cool/Pratham722007?theme=dark&font=Fira+Code&font_color=00AAFF&bg_color=0D1117&border_color=0066FF&radius=10&ext=heatmap" width="480" />
 
-</div>
+<br><br>
 
-<br>
+<img src="https://codeforces-readme-stats.vercel.app/api/card?username=Pratham722007&theme=dark&bg_color=0D1117&title_color=00AAFF&text_color=CCE0FF&hide_border=true" width="420" />
 
-<div align="center">
+<br><br>
 
-<img src="https://codeforces-readme-stats.vercel.app/api/card?username=Pratham722007&theme=dark&title_color=00AAFF&bg_color=0D1117&hide_border=true" width="400" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pratham722007&bg_color=0D1117&color=00AAFF&line=0066FF&point=00AAFF&area=true&area_color=001a66&hide_border=true&custom_title=CONTRIBUTION+ACTIVITY+%7C+LAST+12+MONTHS&radius=6" width="95%" />
 
 </div>
 
 ---
 
-## `> ACHIEVEMENT LOG`
-
-```
-╔══════════════════════════════════════════════════════════════════╗
-║  🏆  COMPETITIVE CODING                                          ║
-║      └─ LeetCode: 200+ problems solved  |  Max Rating: 1407     ║
-║                                                                  ║
-║  ⚔️   HACKATHON WARFARE                                           ║
-║      ├─ Finalist     →  Web Wonder 2025                          ║
-║      ├─ Top 4        →  Hack the Tank                            ║
-║      └─ Top 100      →  HACKOUT'25                               ║
-║                                                                  ║
-║  👑  LEADERSHIP NODES                                            ║
-║      ├─ Co-Head      →  Mindbend (Tech Fest)                     ║
-║      ├─ Developer    →  CEV (Cultural Event Volunteers)          ║
-║      └─ Exec Member  →  ACM SVNIT Surat Chapter                  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
----
-
-## `> ACTIVITY GRID`
+## `> HACKATHON WAR RECORD`
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pratham722007&bg_color=0D1117&color=00AAFF&line=0066FF&point=FFFFFF&area=true&area_color=003399&hide_border=true&custom_title=COMMIT+FREQUENCY+%7C+LAST+12+MONTHS&radius=6" width="95%" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&duration=3000&pause=1000&color=00AAFF&center=true&vCenter=true&width=600&lines=%5B+INITIATING+BATTLE+LOG+...+%5D;%5B+LOADING+MISSION+RECORDS+...+%5D;%5B+%E2%9C%94+ALL+MISSIONS+RETRIEVED+%5D" />
 
+</div>
+
+<br>
+
+<!-- WINNER CARD -->
+<table>
+<tr>
+<td width="8%" align="center">
+
+```
+ ╔══╗
+ ║🥇║
+ ╚══╝
+```
+
+</td>
+<td width="92%">
+
+<div align="center">
+
+![](https://img.shields.io/badge/%E2%96%BA%20MISSION%20STATUS-WINNER%20%F0%9F%8F%86-FFD700?style=for-the-badge&labelColor=0D1117)
+&nbsp;
+![](https://img.shields.io/badge/POWERMIND%20HACKATHON-ADANI%20%C3%97%20CDC%20SVNIT-0066FF?style=for-the-badge&labelColor=0D1117)
+
+</div>
+
+<div align="center">
+<pre>
+┌──────────────────────────────────────────────────────────────────────────┐
+│                                                                          │
+│    ████████╗██████╗  ██████╗ ██████╗ ██╗  ██╗██╗   ██╗                  │
+│       ██╔══╝██╔══██╗██╔═══██╗██╔══██╗██║  ██║╚██╗ ██╔╝                  │
+│       ██║   ██████╔╝██║   ██║██████╔╝███████║ ╚████╔╝                   │
+│       ██║   ██╔══██╗██║   ██║██╔═══╝ ██╔══██║  ╚██╔╝                    │
+│       ██║   ██║  ██║╚██████╔╝██║     ██║  ██║   ██║                     │
+│       ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝  ╚═╝   ╚═╝                    │
+│                                                                          │
+│   ► EVENT   :  PowerMind Hackathon                                       │
+│   ► HOST    :  Adani Group  ×  CDC SVNIT Surat                           │
+│   ► RESULT  :  🏆 WINNER — 1st Place                                     │
+│   ► NOTE    :  Competed against teams across Gujarat & beyond            │
+│                                                                          │
+└──────────────────────────────────────────────────────────────────────────┘
+</pre>
+</div>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- TOP 4 CARD -->
+<table>
+<tr>
+<td width="8%" align="center">
+
+```
+ ╔══╗
+ ║🥈║
+ ╚══╝
+```
+
+</td>
+<td width="92%">
+
+<div align="center">
+
+![](https://img.shields.io/badge/%E2%96%BA%20MISSION%20STATUS-TOP%204%20%E2%9A%94%EF%B8%8F-00AAFF?style=for-the-badge&labelColor=0D1117)
+&nbsp;
+![](https://img.shields.io/badge/HACK%20THE%20TANK-SEMI%20FINALIST-0066FF?style=for-the-badge&labelColor=0D1117)
+
+</div>
+
+<div align="center">
+<pre>
+┌──────────────────────────────────────────────────────────────────────────┐
+│                                                                          │
+│   ► EVENT   :  Hack the Tank                                             │
+│   ► RESULT  :  ⚔️  TOP 4 — Semi-Finalist                                 │
+│   ► EDGE    :  Out of hundreds of competing teams                        │
+│   ► SKILLS  :  Rapid prototyping · Pitching · Full-stack build           │
+│                                                                          │
+│   LEADERBOARD SNAPSHOT                                                   │
+│   ┌─────┬──────────────────────────────────────────┬─────────────────┐  │
+│   │ #01 │ ████████████████████████████████████████ │ WINNER          │  │
+│   │ #02 │ ███████████████████████████████████████░ │                 │  │
+│   │ #03 │ ██████████████████████████████████████░░ │                 │  │
+│   │ #04 │ █████████████████████████████████████░░░ │ ◄ PRATHAM       │  │
+│   └─────┴──────────────────────────────────────────┴─────────────────┘  │
+│                                                                          │
+└──────────────────────────────────────────────────────────────────────────┘
+</pre>
+</div>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- TOP 8 CARD -->
+<table>
+<tr>
+<td width="8%" align="center">
+
+```
+ ╔══╗
+ ║⚡║
+ ╚══╝
+```
+
+</td>
+<td width="92%">
+
+<div align="center">
+
+![](https://img.shields.io/badge/%E2%96%BA%20MISSION%20STATUS-TOP%208%20%E2%9A%A1-00AAFF?style=for-the-badge&labelColor=0D1117)
+&nbsp;
+![](https://img.shields.io/badge/DOT%20SLASH%207.0-NIT%20SURAT-0066FF?style=for-the-badge&labelColor=0D1117)
+
+</div>
+
+<div align="center">
+<pre>
+┌──────────────────────────────────────────────────────────────────────────┐
+│                                                                          │
+│   ► EVENT   :  DotSlash 8.0                                              │
+│   ► HOST    :  NIT SURAT                                                │
+│   ► RESULT  :  ⚡ TOP 8 — National Level                                 │
+│   ► FIELD   :  Competing against India's top engineering talent          │
+│   ► DOMAIN  :  AI / Full-Stack Systems                                   │
+│                                                                          │
+│   NATIONAL RANKING                                                       │
+│   ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   │
+│   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓█   │
+│                                              TOP 8 OUT OF 500+  ►◄       │
+│                                                                          │
+└──────────────────────────────────────────────────────────────────────────┘
+</pre>
+</div>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- FINALIST CARD -->
+<table>
+<tr>
+<td width="8%" align="center">
+
+```
+ ╔══╗
+ ║🎯║
+ ╚══╝
+```
+
+</td>
+<td width="92%">
+
+<div align="center">
+
+![](https://img.shields.io/badge/%E2%96%BA%20MISSION%20STATUS-FINALIST%20%F0%9F%8E%AF-CCE0FF?style=for-the-badge&labelColor=0D1117)
+&nbsp;
+![](https://img.shields.io/badge/WEB%20WONDER%202025-FINALIST-0066FF?style=for-the-badge&labelColor=0D1117)
+
+</div>
+
+<div align="center">
+<pre>
+┌──────────────────────────────────────────────────────────────────────────┐
+│                                                                          │
+│   ► EVENT   :  Web Wonder 2025                                           │
+│   ► RESULT  :  🎯 FINALIST                                               │
+│   ► FOCUS   :  Web development · UI/UX · Innovation                      │
+│   ► STACK   :  Full-stack modern web technologies                        │
+│                                                                          │
+└──────────────────────────────────────────────────────────────────────────┘
+</pre>
+</div>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- OVERALL WAR STATS -->
+<div align="center">
+<pre>
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                       ⚔️  HACKATHON WAR SUMMARY  ⚔️                         ║
+╠══════════════╦═══════════════════════════════════╦══════════════════════════ ╣
+║  BATTLES     ║  BEST RESULT                      ║  ARENAS                   ║
+║  FOUGHT: 7   ║  🏆 1× WINNER                     ║  DOTSLASH 8.0             ║
+║              ║  🥈 1× TOP 4                       ║  Adani × CDC SVNIT       ║
+║              ║  ⚡ 1× TOP 8                       ║  Web Wonder              ║
+║              ║  🎯 1× FINALIST                    ║  Hack the Tank           ║
+╚══════════════╩═══════════════════════════════════╩══════════════════════════╝
+</pre>
 </div>
 
 ---
@@ -264,16 +444,15 @@ Production-grade **mental wellness platform** — helping people navigate life's
 
 <br>
 
-```
+<pre>
 ╔══════════════════════════════════════════════════════╗
 ║   Ping me. Let's build something unreasonable.       ║
 ║   Or just say hi. That's fine too.  ↗               ║
 ╚══════════════════════════════════════════════════════╝
-```
+</pre>
 
 <br>
 
-<!-- PROFILE VIEWS -->
 ![](https://komarev.com/ghpvc/?username=Pratham722007&color=0066FF&style=for-the-badge&label=PROFILE+VIEWS&abbreviated=true)
 
 <br>
